@@ -2,6 +2,8 @@
 
 To **uninstall**, all you need to do is delete the .exe file. The script and sound files used are fully contained into that .exe and nothing else is installed onto your system beides temp files when the software runs, these are deleted when it is closed. In the case of a crash or sudden closure it is possible these files are not removed, they should be deleted upon opening and closing the software again.
 
+This is just a very simple pong game made using pyglet in around 300-400 lines, will likely be updated though I want to keep this more simple as I work on other projects.
+
 ## Features include
 - Computer to play against
 - Ball speed up with time
