@@ -4,6 +4,7 @@ To **uninstall**, all you need to do is delete the .exe file. The script and sou
 
 ## Features include
 - Computer to play against
+- Ball speed up with time
 - Movement up and down using W and S
 - Space to start
 - Esc to pause
